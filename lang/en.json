@@ -1,0 +1,14 @@
+{
+    "start": "Hello,Send me an email to send the file",
+    "downloading": "Downloading♻️",
+    "downloaded": "Downloaded♻️",
+    "sending": "Sending📤",
+    "max_file_size": "The bot can only process file less than 20MB,This file is greater than 20MB",
+    "sent": "Successfully sent to: :email",
+    "default": "Hey!This bot will help you to send files[~20MB] to any email address.\nOnce you register the email you want to send the file, send me the file to be sent.\n©️ <a href='https://semer_nur.t.me'>SEMER NUR</a>",
+    "already_registered": "You already have a registered email.would like to change the email or send someone else other than you? Here is the command to do so /change .",
+    "not_file": "Unsupported file type\nSupported files are Image,File sent as document only",
+    "change_email": "Alright!\nSend me the new email",
+    "insert_valid_email": "Please enter valid email address",
+    "successfully_registered": "Your registration has been completed."
+}
