@@ -3,6 +3,8 @@
     "downloading": "Downloading♻️",
     "downloaded": "Downloaded♻️",
     "sending": "Sending📤",
+    "error": "an error occurred while sending the file please try again...",
+    "not_registered": "Please register before trying to send",
     "max_file_size": "The bot can only process file less than 20MB,This file is greater than 20MB",
     "sent": "Successfully sent to: :email",
     "default": "Hey!This bot will help you to send files[~20MB] to any email address.\nOnce you register the email you want to send the file, send me the file to be sent.\n©️ <a href='https://semer_nur.t.me'>SEMER NUR</a>",
