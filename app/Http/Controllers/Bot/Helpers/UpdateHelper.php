@@ -97,8 +97,9 @@ class UpdateHelper
 
     public function photo()
     {
+$count=count($this->update->message->photo);
 
-        return $this->update->message->photo[0] ?? null;
+        return $this->update->message->photo[$count-1] ?? null;
     }
 
     public  function hasFile()
